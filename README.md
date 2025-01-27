@@ -1,4 +1,15 @@
 # Chess_robot
+
+## 软件安装包资源：
+
+[Proteus Professional 8.17](https://pan.baidu.com/s/1pGjJZUcwNZT95wtJOwflvw?pwd=1pk1)	提取码：1pk1 
+
+[Keil5_MDK](https://pan.baidu.com/s/1efL4jIY53QlUfjmH0rHuOQ)    提取码：e3p4
+
+[Stm32_cube_prammer](https://pan.baidu.com/s/1LeM5aNQnrarYv80Huv2ZUw?pwd=phv4)    提取码：phv4
+
+[Stm32_Cube_MX](https://pan.baidu.com/s/1_kpAkZJksgmdiK_6agOe4A?pwd=sq8t)    提取码：sq8t
+
 ## 主控板电路规划：
 1. 主控：STM32F103C8T6
 2. 电机驱动：A4988模块
