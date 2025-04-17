@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.aubo": "lua",
+        "gpio.h": "c",
+        "main.h": "c"
+    }
+}
